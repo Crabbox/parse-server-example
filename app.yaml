@@ -7,7 +7,7 @@ env_variables:
   APP_ID: mole-app-server
   MASTER_KEY: Robbie1997
   CLIENT_KEY: qwerty
-  SERVER_URL: https://mole-app-server.herokuapp.com/parse
+  SERVER_URL: https://mole-app-server.herokuapp.com:1337/parse
   # --OPTIONAL--
   # FILE_KEY: <your-file-key>
   # PARSE_MOUNT: /parse
